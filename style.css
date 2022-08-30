@@ -242,10 +242,6 @@ MENU STATES
 =====
 */
 
-.menu__toggle:focus{
-  outline: var(--menuHaburgerOutlineOWidth, 2px) solid var(--menuHaburgerOutlineColor);
-  outline-offset: var(--menuHaburgerOutlineOffset, 5px);
-}
 
 .menu_activated{
   height: 100%;
