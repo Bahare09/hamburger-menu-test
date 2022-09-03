@@ -1,8 +1,3 @@
-/*
-!!!!!
-This code is created to display element's behavior. I'm not a JS expert so don't use it
-!!!!!
-*/
 
 (function () {
   "use strict";
