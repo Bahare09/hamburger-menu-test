@@ -5,7 +5,7 @@
 -- replace .menu:not(.menu_activated) .menu__list{  display: none; } to hidden
 -- use :is pseudo-class to simplify selectors 
 
-
+/* The component will reset button browser styles */
 * {
   box-sizing: border-box;
 }
